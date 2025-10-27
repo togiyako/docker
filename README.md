@@ -36,9 +36,5 @@
     for client:
     sh /scripts/client.sh
     
-    
-
-
-
     Commands to verify netcat scripts:
     docker logs server-container
